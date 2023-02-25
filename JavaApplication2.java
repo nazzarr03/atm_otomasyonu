@@ -4,7 +4,7 @@ package javaapplication2;
 import java.util.Scanner;
 
 public class JavaApplication2 {
-   //ATM UYGULAMASI
+
  public static void main(String[] args) {
      int bakiye=5000,paracekme,parayatirma;
      Scanner veri = new Scanner(System.in);
